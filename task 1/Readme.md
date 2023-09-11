@@ -75,4 +75,5 @@ Use the provided scripts or integrate the model into your own applications for i
 After training the model or using a pre-trained model, you can expect to obtain results including accuracy, precision, recall, and F1-score.
 
 
+Created by Sheikh Shaheer Naeem [https://sheikhshaheernaeem.vercel.app/](https://sheikhshaheernaeem.vercel.app/)
 
