@@ -1,7 +1,7 @@
 # REX-Projects Task 1
-# Gender Classification with Deep Learning
+# Gender Classification with Machine Learning
 
-This repository contains code for a gender classification model using deep learning. The model is trained to classify images as either "Male" or "Female."
+This repository contains code for a gender classification model using Machine learning. The model is trained to classify images as either "Male" or "Female."
 
 ## Table of Contents
 
