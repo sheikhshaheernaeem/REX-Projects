@@ -1,4 +1,4 @@
-# REX-Projects Task 1
+# REX-Projects Task 2
 # Gender Classification with DNN
 
 This repository contains code for a gender classification model using DNN. The model is trained to classify images as either "Male" or "Female."
