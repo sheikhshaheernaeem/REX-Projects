@@ -1,4 +1,4 @@
-# REX Technologies Internship Project
+# REX Technologies Internship Projects
 
 Welcome to my internship project at REX Technologies! This repository contains the work I have done during my internship as an AI Developer. Below, you'll find information about the project, how to get started, and other relevant details.
 
@@ -21,7 +21,7 @@ Briefly describe the project you have been working on during your internship. Hi
 - [Challenges Faced](#challenges-faced)
 - [Future Enhancements](#future-enhancements)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
+
 
 ## Getting Started
 
@@ -53,8 +53,5 @@ Describe potential improvements or future directions for the project. Consider w
 
 Acknowledge the people, mentors, or colleagues who have supported you during your internship. Show appreciation for any guidance, assistance, or resources you received.
 
-## License
-
-Specify the license under which your project is released. You can use open-source licenses like MIT, Apache, or GPL, or choose a custom license.
 
 
